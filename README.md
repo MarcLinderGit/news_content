@@ -1,6 +1,6 @@
 # Exploring News Articles with TF-IDF
 
-In this prokect, I'll leverage Natural Language Processing (NLP) and the power of term frequency-inverse document frequency (TF-IDF) to analyze news articles. By identifying the most significant terms in each article, I can gain quick insights into their topics, making it easier for me to navigate the world of news. I'll work with a selection of articles from The News International, a prominent English-language newspaper in Pakistan. My goal is to use TF-IDF to examine each article's content and determine the terms that best describe its topic.
+In this project, I'll leverage Natural Language Processing (NLP) and the power of term frequency-inverse document frequency (TF-IDF) to analyze news articles. By identifying the most significant terms in each article, I can gain quick insights into their topics, making it easier for me to navigate the world of news. I'll work with a selection of articles from The News International, a prominent English-language newspaper in Pakistan. My goal is to use TF-IDF to examine each article's content and determine the terms that best describe its topic.
 
 Here's how I'll approach this:
 
